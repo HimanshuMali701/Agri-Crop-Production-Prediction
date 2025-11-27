@@ -134,3 +134,8 @@ Use LSTM or Prophet for time-series
 Add cost-based yield optimization
 
 Extend dataset beyond 2011
+
+⚠ Dataset is not included due to licensing and size. 
+Download CMAPSS FD001 from NASA PCoE:
+([https://drive.google.com/file/d/1dgWM0KKOnoN9kVObbA-GahsgXPJBCT4c/view?usp=sharing](https://drive.google.com/file/d/1zfqvs8-mAO6E0JpgvhBdueNx8Th03pUp/view?usp=sharing ) )
+and place files in /data before running the notebook.
