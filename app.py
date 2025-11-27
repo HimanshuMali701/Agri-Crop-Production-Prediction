@@ -13,9 +13,9 @@ st.set_page_config(page_title="Crop Production Predictor", page_icon="🌾", lay
 # ----------------------------
 # Paths to model & encoders
 # ----------------------------
-MODEL_PATH = Path("data/agri_model.joblib")
-LE_CROP_PATH = Path("data/le_crop.joblib")
-LE_YEAR_PATH = Path("data/le_year.joblib")
+MODEL_PATH = Path("agri_model.joblib")
+LE_CROP_PATH = Path("le_crop.joblib")
+LE_YEAR_PATH = Path("le_year.joblib")
 
 # ----------------------------
 # Load model & encoders (cached)
@@ -205,3 +205,4 @@ st.markdown("""
 Enabling data-driven decisions for sustainable farming.  
 Model trained using historical datasets (2006–2011).  
 """)
+
