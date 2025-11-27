@@ -1,3 +1,5 @@
+🔗 **Live Demo (Streamlit):** https://agri-crop-appuction-prediction-pqrst.streamlit.app/
+
 🌾 Agriculture Crop Production Prediction (India)
 
 This project predicts agricultural crop production in India using historical data (2006–2011).
